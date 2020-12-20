@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img alt="GitHub Profile Readme Generator" src="./img/ScoopDeep.png" width="500" height="500"/>
+    <img alt="GitHub Profile Readme Generator" src="./img/ScoopDeep.png" width="400" height="400"/>
 </p>
 
 <h1 align="center">
