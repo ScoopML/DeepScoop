@@ -5,8 +5,6 @@
 </p>
 
 <h1 align="center">
-  [![Deploy](https://github.com/ScoopML/DeepScoop/blob/master/192.png)](https://pythonplay.ml/)
-
 </h1>
 
 <p align="center">
