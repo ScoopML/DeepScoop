@@ -1,4 +1,4 @@
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 def sigmoid(x):
 	return 1 / (1 + tl.exp(-x))
