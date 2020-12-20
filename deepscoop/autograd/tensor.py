@@ -1,8 +1,8 @@
 from __future__ import absolute_import
 
-import flamethrower.autograd.variable as var
-import flamethrower.autograd.grad_defs as gd
-import flamethrower.autograd.tensor_library as tl 
+import deepscoop.autograd.variable as var
+import deepscoop.autograd.grad_defs as gd
+import deepscoop.autograd.tensor_library as tl 
 
 import numpy as np
 
