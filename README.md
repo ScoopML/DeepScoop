@@ -30,7 +30,7 @@
 Install it:
 
 ```bash
-pip install oreoweb
+python setup.py install
 ```
 
 Basic Usage:
