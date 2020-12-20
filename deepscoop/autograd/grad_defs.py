@@ -1,7 +1,7 @@
 from itertools import count
 
-import flamethrower.autograd.utils as utils
-import flamethrower.autograd.call as call
+import deepscoop.autograd.utils as utils
+import deepscoop.autograd.call as call
 
 import numpy as np
 
