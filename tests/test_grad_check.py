@@ -1,8 +1,8 @@
-import flamethrower.nn as nn
-import flamethrower.autograd as ag
-import flamethrower.autograd.utils as utils
+import deepscoop.nn as nn
+import deepscoop.autograd as ag
+import deepscoop.autograd.utils as utils
 
-from flamethrower.autograd import Tensor
+from deepscoop.autograd import Tensor
 
 def f(x):
 	return x ** 2
