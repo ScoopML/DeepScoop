@@ -1,4 +1,4 @@
-import flamethrower.autograd as ag
+import deepscoop.autograd as ag
 import numpy as np
 import logging
 
