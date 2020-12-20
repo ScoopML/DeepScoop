@@ -1,9 +1,9 @@
 import inspect
 
-import flamethrower.autograd.tensor as ten
-import flamethrower.autograd.variable as var
-import flamethrower.autograd.node as anode
-import flamethrower.autograd.grad_defs as gd
+import deepscoop.autograd.tensor as ten
+import deepscoop.autograd.variable as var
+import deepscoop.autograd.node as anode
+import deepscoop.autograd.grad_defs as gd
 
 from .utils import name
 
