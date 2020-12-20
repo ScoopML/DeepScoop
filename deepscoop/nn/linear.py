@@ -1,9 +1,9 @@
 from .module import Module
-from flamethrower.autograd import Tensor
+from deepscoop.autograd import Tensor
 
-import flamethrower.autograd.tensor_library as tl
-import flamethrower.autograd.tensor_library.random as tlr
-import flamethrower.nn.initialize as init
+import deepscoop.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library.random as tlr
+import deepscoop.nn.initialize as init
 
 import logging
 
