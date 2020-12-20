@@ -6,8 +6,8 @@ from __future__ import division
 
 import math
 
-import flamethrower.autograd.tensor_library as tl
-import flamethrower.autograd.tensor_library.random as tlr
+import deepscoop.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library.random as tlr
 
 def get_in_out_dims(tensor):
 	"""
