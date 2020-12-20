@@ -1,4 +1,4 @@
-import flamethrower.autograd.tensor as ten
+import deepscoop.autograd.tensor as ten
 
 def sum_with_none(x, y):
     if x is None:
