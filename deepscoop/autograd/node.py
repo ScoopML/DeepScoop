@@ -1,5 +1,5 @@
-import flamethrower.autograd.grad_defs as gd
-import flamethrower.autograd.utils as utils
+import deepscoop.autograd.grad_defs as gd
+import deepscoop.autograd.utils as utils
 
 class Node(object):
 	"""
