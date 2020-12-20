@@ -1,4 +1,4 @@
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 class _LRScheduler(object):
 	"""
