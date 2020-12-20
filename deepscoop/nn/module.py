@@ -1,6 +1,6 @@
 from .utils import get_logger
 
-import flamethrower.autograd.tensor as ten
+import deepscoop.autograd.tensor as ten
 
 from collections import OrderedDict
 import pickle
