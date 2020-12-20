@@ -1,4 +1,4 @@
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 def calc_mi(X, Y, bins):
 	counts_XY = tl.histogram2d(X, Y, bins)[0]
