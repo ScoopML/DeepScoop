@@ -1,4 +1,4 @@
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 from .module import Module
 from .utils import get_logger
 
