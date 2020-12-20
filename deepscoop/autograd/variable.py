@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 
-import flamethrower.autograd.node as anode
-import flamethrower.autograd.utils as utils
+import deepscoop.autograd.node as anode
+import deepscoop.autograd.utils as utils
 
 import numpy as np
 
