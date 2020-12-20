@@ -1,7 +1,7 @@
 from .optimizer import Optimizer
 
 import logging
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 class RProp(Optimizer):
     def __init__(self, params, lr=1e-2, etas=(0.5, 1.2), step_sizes=(1e-6, 50)):
