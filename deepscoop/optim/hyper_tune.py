@@ -1,5 +1,5 @@
 import numpy as np
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 def random_search(rng, shape, discrete=False):
 	if not discrete:
