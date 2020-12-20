@@ -1,5 +1,5 @@
-import flamethrower.autograd.tensor_library as tl
-import flamethrower.autograd.tensor as ten
+import deepscoop.autograd.tensor_library as tl
+import deepscoop.autograd.tensor as ten
 from .module import Module
 
 class BatchNorm(Module):
