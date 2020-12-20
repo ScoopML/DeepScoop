@@ -4,7 +4,7 @@ functions used in training
 deep neural networks.
 """
 from __future__ import division
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 def cross_entropy(y, y_hat, regularizer=None):
 	"""
