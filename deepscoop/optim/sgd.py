@@ -1,7 +1,7 @@
 from .optimizer import Optimizer
 
 import logging
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.autograd.tensor_library as tl
 
 logger = logging.getLogger(__name__)
 
