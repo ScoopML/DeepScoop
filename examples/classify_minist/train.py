@@ -3,17 +3,17 @@ from __future__ import division
 import numpy as np
 import sys
 
-import flamethrower.nn as nn
-import flamethrower.nn.loss as loss
-import flamethrower.optim as optim
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.nn as nn
+import deepscoop.nn.loss as loss
+import deepscoop.optim as optim
+import deepscoop.autograd.tensor_library as tl
 
-from flamethrower.autograd import Tensor
+from deepscoop.autograd import Tensor
 import matplotlib.pyplot as plt
 
 from download_mnist import load_mnist
 from feedforward import FeedforwardNetwork
-import flamethrower.nn.utils as utils
+import deepscoop.nn.utils as utils
 
 utils.configure_logging()
 
