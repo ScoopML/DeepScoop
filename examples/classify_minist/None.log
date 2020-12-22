@@ -1,0 +1,25 @@
+flamethrower.nn.utils - INFO - Running forward pass on data: (<flamethrower.autograd.tensor.Tensor object at 0x11756aa48>,)
+flamethrower.nn.utils - INFO - Running forward pass on data: (<flamethrower.autograd.tensor.Tensor object at 0x11756aa48>,)
+flamethrower.nn.linear - INFO - Running forward pass on data: [[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+flamethrower.nn.utils - INFO - Running forward pass on data: (<flamethrower.autograd.tensor.Tensor object at 0x11756ad68>,)
+flamethrower.nn.linear - INFO - Running forward pass on data: [[0.59112258 0.19412903 0.88159393 ... 0.32059077 0.31470328 0.        ]
+ [0.53114444 0.         1.08736983 ... 0.72323089 0.22193253 0.        ]
+ [1.13203524 0.         0.24422576 ... 0.81446243 0.         0.        ]
+ ...
+ [1.05348079 0.         0.11648169 ... 0.97956059 0.         0.        ]
+ [0.57745414 0.         1.80276363 ... 0.61730901 0.         0.        ]
+ [0.73827297 0.17998107 0.44416593 ... 0.52444375 0.07991937 0.        ]]
+flamethrower.nn.utils - INFO - Running forward pass on data: (<flamethrower.autograd.tensor.Tensor object at 0x11756aef8>,)
+flamethrower.nn.linear - INFO - Running forward pass on data: [[0.         0.         0.82422051 ... 0.07109186 0.64847646 0.        ]
+ [0.         0.1017426  0.74435497 ... 0.1354536  0.79274366 0.        ]
+ [0.         0.         0.61895883 ... 0.         0.         0.        ]
+ ...
+ [0.00314068 0.         0.59567352 ... 0.         0.03241973 0.        ]
+ [0.14467762 0.         0.44274109 ... 0.         0.15604618 0.        ]
+ [0.         0.         0.47236929 ... 0.         0.39465926 0.        ]]
