@@ -1,10 +1,10 @@
 import numpy as np
 
-import flamethrower.nn as nn
-import flamethrower.optim as optim
-import flamethrower.autograd.tensor_library as tl
+import deepscoop.nn as nn
+import deepscoop.optim as optim
+import deepscoop.autograd.tensor_library as tl
 
-from flamethrower.autograd import Tensor
+from deepscoop.autograd import Tensor
 import matplotlib.pyplot as plt
 
 np.random.seed(0)
